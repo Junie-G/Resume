@@ -1,0 +1,7 @@
+.left-side{
+    float: left;
+    background-color: #CBE1AF;
+    height: 800px;
+    width: 400px;
+    box-sizing:border-box;
+}
